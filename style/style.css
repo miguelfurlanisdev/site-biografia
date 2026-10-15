@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#img1{
+    float: right;
+    margin: 30px;
+}
+#img2{
+    float: right;
+    margin: auto;
+    width: 700px;
+}
+p{
+    text-align: left;
+}
+h2{
+    text-align: center;
+    width: 600px;
+}
+#Mavie{
+    width: 500px;
+    float:inline-start;
+}
+#pq{
+    font-size: 40px;
+    color: rgb(127, 0, 0);
+    text-align: left;
+    text-shadow: 0px 10px 8px ;
+}
+#shiu{
+    width: 300px;
+    float:inline-start;
+}
